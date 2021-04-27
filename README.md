@@ -15,7 +15,7 @@ Congratulations! You have been hired at Snapchat as a Product Lead. The company�
 </p>
 
 ## Description
-  - Your product strategy should cover the following points:
+  - Product strategy includes the following points:
     - The new product’s value proposition and differentiator.
     - The new product’s features by order of priority.
     - The new product's design & branding.
