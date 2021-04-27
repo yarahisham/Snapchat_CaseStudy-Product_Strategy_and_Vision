@@ -1,4 +1,4 @@
-## Knolwdge Officer [Product Mangment Track]: Product Management Fundamentals -> _Product Strategy & Vision_
+## Knolwdge Officer [Product Management Track]: Product Management Fundamentals -> _Product Strategy & Vision_
 
 Congratulations! You have been hired at Snapchat as a Product Lead. The company’s main customer set for so long has been teenagers but studies have shown that teenagers are not the best paying customers. So, Snapchat is moving on! They have a new business vision; they want more customers engaged with the app from the 25-35 age group.
 
