@@ -30,9 +30,9 @@ Congratulations! You have been hired at Snapchat as a Product Lead. The companyâ
 
 ## Knowledge Officer Rubric
 <p align="center">
-<img src="https://github.com/yarahisham/Snapchat_CaseStudy-Product_Strategy_and_Vision/blob/master/images/Screen%20Shot%202021-04-27%20at%201.57.30%20AM.jpg" alt="alt text" width="700" height="300" >
+<img src="https://github.com/yarahisham/Snapchat_CaseStudy-Product_Strategy_and_Vision/blob/master/images/Screen%20Shot%202021-04-27%20at%201.57.30%20AM.jpg" alt="alt text" width="700" height="400" >
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/Snapchat_CaseStudy-Product_Strategy_and_Vision/blob/master/images/Screen%20Shot%202021-04-27%20at%201.57.41%20AM.jpg" alt="alt text" width="700" height="300" >
+<img src="https://github.com/yarahisham/Snapchat_CaseStudy-Product_Strategy_and_Vision/blob/master/images/Screen%20Shot%202021-04-27%20at%201.57.41%20AM.jpg" alt="alt text" width="700" height="200" >
 </p>
